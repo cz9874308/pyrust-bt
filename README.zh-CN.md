@@ -91,7 +91,7 @@ pip install --force-reinstall (Get-ChildItem target/wheels/engine_rust-*.whl | S
   python examples/run_multi_asset_rebalance_strategy.py
   ```
 
-- 更多设计细节与补数流程，可参考 `doc/xtdata_market_data_plan.md`。
+- 更多设计细节与补数流程，可参考 `docs/xtdata_market_data_plan.md`。
 
 ## 代码用法
 

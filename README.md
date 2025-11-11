@@ -118,7 +118,7 @@ Sample data: `examples/data/sample.csv` (headers: `datetime,open,high,low,close,
   python examples/run_multi_asset_rebalance_strategy.py
   ```
 
-- See `doc/xtdata_market_data_plan.md` for architecture details and operational recommendations.
+- See `docs/xtdata_market_data_plan.md` for architecture details and operational recommendations.
 
 ## In Code
 
